@@ -6,14 +6,15 @@ I will make web-site that calls pet-shelter. Tha main idea for this site is to a
 The platform enables potential adopters to browse available pets and book appointments to meet them in person.
 
 Added some functional to the apps, like:
-- Reding from DB
-- Database entry for login, logout, registration, blog, animal pages
+- Added forms.py to /blog
+- Updated blog/view.py
+- Updated templates
 
 ## Run API
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/OleksiiUzu/django-api-homework-13-db-orm.git
-   cd django-api-homework-13-db-orm
+   git clone https://github.com/OleksiiUzu/django-api-homework-14-forms.git
+   cd django-api-homework-14-forms
 2.(Optional) Create and activate a virtual environment:
   python -m venv venv
   source venv/bin/activate
